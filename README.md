@@ -13,7 +13,7 @@ Data Analyst with a passion for solving business problems through data.
 ## 👨‍💻 About Me
 
 - 📍 Based in Portugal
-- 📊 Building end-to-end analytics projects using SQL, Tableau, Power BI, Python and Excel
+- 📊 Building end-to-end analytics solutions using SQL, Python, Tableau, Power BI and Excel to solve real-world business problems.
 - 🗄 Passionate about analytics, business intelligence, and transforming data into actionable insights.
 - 🌱 Continuously building projects in SQL, Python, Power BI and Tableau while expanding my analytical and business intelligence skills.
 
