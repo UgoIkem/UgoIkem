@@ -1,8 +1,12 @@
-# Hi, I'm Ugo 👋
+# Hi, I'm Ugo Ikem 👋
 
-**Data Analyst** with a passion for solving business problems through data.
+Data Analyst with a passion for solving business problems through data.
 
-I enjoy transforming raw data into meaningful insights by building interactive dashboards, designing efficient databases, analysing trends, and communicating results that support better business decisions.
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
