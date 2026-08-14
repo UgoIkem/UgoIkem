@@ -14,19 +14,12 @@ Data Analyst with a passion for solving business problems through data.
 
 - 📍 Based in Portugal
 - 📊 Building end-to-end analytics projects using SQL, Tableau, Power BI, Python and Excel
-- 🗄 Passionate about database design, business intelligence, and data visualization
+- 🗄 Passionate about analytics, business intelligence, and transforming data into actionable insights.
 - 🌱 Continuously building projects in SQL, Python, Power BI and Tableau while expanding my analytical and business intelligence skills.
 
 ---
 
 ## 🛠 Tech Stack
-
-### Data Analysis
-- SQL
-- Python
-- Excel
-- Tableau
-- Power BI
 
 ### Databases
 - SQL Server
@@ -115,11 +108,9 @@ Exploratory Data Analysis project using Python.
 
 📍 Portugal
 
-💼 LinkedIn  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ugonnanikemede))
 
-📧 Email  
-ikemeduegonna4@gmail.com
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikemeduegonna4@gmail.com)
 
 ---
 
