@@ -116,7 +116,7 @@ Exploratory Data Analysis project using Python.
 📍 Portugal
 
 💼 LinkedIn  
-https://www.linkedin.com/in/ugonnanikemede
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ugonnanikemede))
 
 📧 Email  
 ikemeduegonna4@gmail.com
