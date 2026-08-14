@@ -19,18 +19,6 @@ Data Analyst with a passion for solving business problems through data.
 
 ---
 
-## 🛠 Tech Stack
-
-### Databases
-- SQL Server
-- MySQL
-
-### Other Tools
-- Git
-- GitHub
-
----
-
 # 📂 Featured Projects
 
 ## 📊 HR Analytics Dashboard (Tableau)
