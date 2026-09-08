@@ -18,7 +18,6 @@ I transform operational, financial, and customer data into actionable insights t
 - 📊 Experienced in analysing operational, financial, and customer data using **SQL, Power BI, Tableau, Python, and Excel**
 - 📈 Build interactive dashboards, KPI reporting solutions, and analytical models that turn complex data into clear business insights
 - 🔍 Interested in identifying trends, investigating anomalies, understanding business performance, and translating analysis into actionable recommendations
-- 🧠 Experienced across the analytics workflow, from **data preparation and modelling to analysis, visualization, and insight communication**
 
 ---
 
@@ -35,9 +34,7 @@ End-to-end financial analytics solution analysing transaction performance, custo
 - DAX & Time Intelligence
 - Year-over-Year Analysis
 - Field Parameters & Dynamic Metrics
-- KPI Development
 - Interactive Filtering & Drill-through
-- Business Insight Generation
 
 🔗 [View Project Repository](https://github.com/UgoIkem/Finance-Analytics)  
 📊 [View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmQ0YmNjMGQtMTc3Mi00MTNmLTg1MTMtZjI0YTk1YTVkMmQyIiwidCI6IjQ2NWU4NmRmLWRiNWMtNDlmNi1hYjkyLTE1MmY2OGUzZjJjOSIsImMiOjl9)
