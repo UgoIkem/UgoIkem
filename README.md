@@ -1,6 +1,8 @@
 # Hi, I'm Ugo Ikem 👋
 
-Data Analyst with a passion for solving business problems through data.
+**Data Analyst | SQL • Power BI • Tableau • Python • Excel**
+
+I transform operational, financial, and customer data into actionable insights that support better business decisions.
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -13,93 +15,131 @@ Data Analyst with a passion for solving business problems through data.
 ## 👨‍💻 About Me
 
 - 📍 Based in Portugal
-- 📊 Building end-to-end analytics solutions using SQL, Python, Tableau, Power BI and Excel to solve real-world business problems.
-- 🗄 Passionate about analytics, business intelligence, and transforming data into actionable insights.
-- 🌱 Continuously building projects in SQL, Python, Power BI and Tableau while expanding my analytical and business intelligence skills.
+- 📊 Experienced in analysing operational, financial, and customer data using **SQL, Power BI, Tableau, Python, and Excel**
+- 📈 Build interactive dashboards, KPI reporting solutions, and analytical models that turn complex data into clear business insights
+- 🔍 Interested in identifying trends, investigating anomalies, understanding business performance, and translating analysis into actionable recommendations
+- 🧠 Experienced across the analytics workflow, from **data preparation and modelling to analysis, visualization, and insight communication**
 
 ---
 
 # 📂 Featured Projects
 
-## 📊 HR Analytics Dashboard (Tableau)
+## 📊 Finance Analytics Dashboard | Power BI
 
-An interactive HR dashboard analysing employee attrition, workforce demographics, job satisfaction and employee trends.
+End-to-end financial analytics solution analysing transaction performance, customer behaviour, transaction status, geographic trends, and year-over-year performance.
 
 **Skills demonstrated**
 
+- Power BI & Power Query
+- Data Modelling
+- DAX & Time Intelligence
+- Year-over-Year Analysis
+- Field Parameters & Dynamic Metrics
+- KPI Development
+- Interactive Filtering & Drill-through
+- Business Insight Generation
+
+🔗 [View Project Repository](https://github.com/UgoIkem/Finance-Analytics)  
+📊 [View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmQ0YmNjMGQtMTc3Mi00MTNmLTg1MTMtZjI0YTk1YTVkMmQyIiwidCI6IjQ2NWU4NmRmLWRiNWMtNDlmNi1hYjkyLTE1MmY2OGUzZjJjOSIsImMiOjl9)
+
+---
+
+## 📊 HR Analytics Dashboard | Tableau
+
+Interactive HR analytics dashboard exploring employee attrition, workforce demographics, job satisfaction, and employee trends.
+
+**Skills demonstrated**
+
+- Tableau
 - Dashboard Design
 - Data Visualization
 - Interactive Filters
 - KPI Development
 - Business Storytelling
 
+🔗 [View Project Repository](https://github.com/UgoIkem/HR-Analytics-Dashboard-Tableau)
+
 ---
 
-## 🍽 Food Service Database (SQL Server)
+## 🍽 Food Service Database | SQL Server
 
-Designed and implemented a relational SQL Server database from scratch using normalization principles.
+Designed and implemented a relational SQL Server database to support structured data storage, business queries, and analytical reporting.
 
-**Highlights**
+**Skills demonstrated**
 
+- SQL Server
+- Relational Database Design
 - ERD Design
 - Normalization (3NF)
 - Stored Procedures
 - Views
 - Business Queries
-- Database Documentation
+
+🔗 [View Project Repository](https://github.com/UgoIkem/foodservice-database-project)
 
 ---
 
-## 🏥 Hospital Management Database
+## 👥 User Segmentation Analysis | SQL
 
-Designed a complete hospital database demonstrating real-world database development.
+Analysed user engagement, feature adoption, and retention behaviour to identify customer segments and usage patterns.
 
-**Highlights**
-
-- Relational Database Design
-- Constraints
-- Triggers
-- Views
-- Functions
-- Stored Procedures
-
----
-
-## 👥 User Segmentation Analysis
-
-Analysed user engagement and feature adoption using SQL to identify behavioural patterns and retention opportunities.
-
-**Highlights**
+**Skills demonstrated**
 
 - SQL Analysis
 - User Segmentation
-- Business Insights
 - Customer Analytics
+- Feature Adoption Analysis
+- Retention Analysis
+- Business Insights
+
+🔗 [View Project Repository](https://github.com/UgoIkem/autogenai-user-segmentation-analysis)
 
 ---
 
-## 🎬 TMDB Movie Analysis
+## 🎬 TMDB Movie Analysis | Python
 
-Exploratory Data Analysis project using Python.
+Exploratory data analysis of movie data to uncover patterns in revenue, ratings, popularity, and genres.
 
-**Highlights**
+**Skills demonstrated**
 
-- Data Cleaning
-- Exploratory Analysis
+- Python
 - Pandas
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
 - Matplotlib
 
+🔗 [View Project Repository](https://github.com/UgoIkem/TMDB-PROJECT)
+
 ---
 
+## 🏥 Hospital Management Database | SQL Server
+
+Developed a relational hospital database demonstrating database design, data integrity, and reusable SQL components.
+
+**Skills demonstrated**
+
+- SQL Server
+- Relational Database Design
+- T-SQL
+- Constraints
+- Views
+- Functions
+- Stored Procedures
+- Triggers
+
+🔗 [View Project Repository](https://github.com/UgoIkem/HospitalDB-SQL-Server-Project)
+
+---
 
 # 🤝 Let's Connect
 
 📍 Portugal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ugonnanikemede))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugonnanikemede)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikemeduegonna4@gmail.com)
 
 ---
 
-⭐ Feel free to explore my repositories to see how I approach real-world data analytics projects.
+⭐ Explore my repositories for examples of how I use data to investigate business problems, build analytical solutions, and communicate actionable insights.
