@@ -23,6 +23,23 @@ I transform operational, financial, and customer data into actionable insights t
 
 # 📂 Featured Projects
 
+
+### 📊 Marketing Campaign Performance Analysis | Excel
+
+Interactive marketing analytics project analysing campaign, channel, audience and geographic performance across approximately 200K campaign records.
+
+**Skills demonstrated**
+- Excel, Power Query & Power Pivot
+- DAX & Data Modelling
+- Campaign ROI Analysis
+- Funnel & Conversion Analysis
+- Channel Performance Analysis
+- Month-over-Month Analysis
+- Business Insights & Recommendations
+
+🔗 [View Project Repository](https://github.com/UgoIkem/marketing-campaign-analysis-excel)
+
+
 ## 📊 Finance Analytics Dashboard | Power BI
 
 End-to-end financial analytics solution analysing transaction performance, customer behaviour, transaction status, geographic trends, and year-over-year performance.
